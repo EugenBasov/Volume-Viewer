@@ -1,0 +1,12 @@
+# Build output
+/build/
+/out/
+
+# IDE files
+/.vs/
+/.vscode/
+/.idea/
+CMakeUserPresets.json
+
+# Dear ImGui window layout, created at runtime
+imgui.ini
